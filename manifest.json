@@ -10,5 +10,8 @@
   },
   "action": {
     "default_popup": "index.html"
-  }
+  },
+  "permissions": ["scripting", "activeTab"],
+  "host_permissions": ["https://*/*"]
 }
+

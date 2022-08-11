@@ -1,0 +1,30 @@
+button {
+    height: 40px;
+    width: 90px;
+    font-size: 12px;
+    outline: none;
+    margin: 10px;
+    /* border: none; */
+    border-radius: 7px;
+    background-color: aliceblue;
+  }
+  button:active {
+    background-color: aqua;
+  }
+  
+  button.current {
+    box-shadow: 0 0 0 2px white,
+                0 0 0 4px black;
+  }
+  
+  #dino{
+    max-width: auto;
+    max-height: auto;
+    width: 90px;
+    margin: 10px;
+  }
+/* 
+  div {
+    height: 100px;
+    width: 100px;
+  } */

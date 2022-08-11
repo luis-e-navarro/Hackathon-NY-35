@@ -1,0 +1,14 @@
+{
+  "name": "Audio Reader 3000",
+  "description": "Reads webpages aloud",
+  "version": "2999.99",
+  "manifest_version": 3,
+  "icons" : {
+    "16": "/images/16.png",
+    "48": "/images/48.png",
+    "128": "/images/128.png"
+  },
+  "action": {
+    "default_popup": "index.html"
+  }
+}
